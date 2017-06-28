@@ -6,6 +6,7 @@ Browser extension that changes Millenials to Milleniums.
 
 1. Add the extension to your browser of choice: 
   - [Chrome](https://chrome.google.com/webstore/detail/millennials-to-millennium/bcgnnchgkbjmpgogdfklkmmbeodhickf)
+  - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/millennials-to-millenniums/)
 
 
 
